@@ -551,7 +551,12 @@ def upsample_and_ffill_stopping_at_nans(
         tag_df = tag_df.reindex(tag_df.index.union(busy_tag_nan_times_to_add))
     upsampling_factor = timebase_s * 1000 // (subsampling_timebase_ms)
     ffill_limit = None if not only_ffill_one_timebase else upsampling_factor - 1
-    return tag_df.resample(pd.Timedelta(milliseconds=subsampling_timebase_ms)).ffill(limit=ffill_limit)
+    freq = pd.Timedelta(milliseconds=subsampling_timebase_ms)
+    upsampled = tag_df.resample(freq).ffill(limit=ffill_limit)
+    last_ts = tag_df.index[-1]
+    if last_ts > upsampled.index[-1]:
+        upsampled = pd.concat([upsampled, tag_df.iloc[[-1]]])
+    return upsampled
 
 
 def resample_fastlog_tags(  # noqa: C901, PLR0912, PLR0913, PLR0915
