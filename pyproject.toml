@@ -19,6 +19,8 @@ dependencies = [
     "numpy>=1.26",
     "scipy>=1.11",
     "pyarrow>=15.0",
+    "py-wake>=2.6.20",
+    "floris>=4.6.6",
 ]
 
 [dependency-groups]
