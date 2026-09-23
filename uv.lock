@@ -2849,6 +2849,7 @@ dependencies = [
 dev = [
     { name = "coverage" },
     { name = "deptry" },
+    { name = "ipykernel" },
     { name = "mypy" },
     { name = "pandas-stubs", version = "2.3.3.260113", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "pandas-stubs", version = "3.0.0.260204", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
@@ -2896,6 +2897,7 @@ requires-dist = [
 dev = [
     { name = "coverage", specifier = ">=7.14.1" },
     { name = "deptry", specifier = ">=0.20.0" },
+    { name = "ipykernel", specifier = ">=7.2.0" },
     { name = "mypy", specifier = ">=1.10.1" },
     { name = "pandas-stubs", specifier = ">=2.2.2.240603" },
     { name = "poethepoet", specifier = ">=0.27.0" },
