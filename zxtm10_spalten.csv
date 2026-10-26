@@ -1,0 +1,305 @@
+0
+Timestamp (ISO 8601)
+Reference
+GPS
+Met Compass Bearing (deg)
+Met Air Temp. (C)
+Met Pressure (mbar)
+Met Humidity (%)
+Met Wind Speed (m/s)
+Met Wind Direction (deg)
+Proportion Of Packets With Rain (%)
+Inclination Angle Mean (deg)
+Inclination Angle Std. Dev. (deg)
+Roll Angle Mean (deg)
+Roll Angle Std. Dev. (deg)
+GPS Timestamp (ISO 8601)
+Info. Flags
+FD Packets in Average at 208m
+FD Wind Yaw Misalignment (deg) at 208m
+FD Wind Yaw Misalignment (deg) Min at 208m
+FD Wind Yaw Misalignment (deg) Max at 208m
+FD Wind Yaw Misalignment Std. Dev. (deg) at 208m
+FD Horizontal Wind Speed (m/s) at Hub Height at 208m
+FD Horizontal Wind Speed Min (m/s) at Hub Height at 208m
+FD Horizontal Wind Speed Max (m/s) at Hub Height at 208m
+FD Horizontal Wind Speed Std. Dev. (m/s) at Hub Height at 208m
+FD Mean Fit Residual Normalised By Wind Speed at 208m
+FD Vertical Wind Shear Exponent at 208m
+FD Vertical Wind Shear Exponent Min at 208m
+FD Vertical Wind Shear Exponent Max at 208m
+FD Vertical Wind Shear Exponent Std. Dev. at 208m
+FD Fit Flags at 208m
+FD Backscatter (/1.3e-6/m/sr) at 208m
+PDAC Packets in Average at Rotor Segment Height 26.2m at 208m
+PDAC Packets in Average at Rotor Segment Height 42.6m at 208m
+PDAC Packets in Average at Rotor Segment Height 59.0m at 208m
+PDAC Packets in Average at Rotor Segment Height 75.4m at 208m
+PDAC Packets in Average at Rotor Segment Height 91.8m at 208m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 26.2m at 208m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 42.6m at 208m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 59.0m at 208m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 75.4m at 208m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 91.8m at 208m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 26.2m at 208m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 42.6m at 208m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 59.0m at 208m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 75.4m at 208m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 91.8m at 208m
+PDAC Rotor Equivalent Horizontal Wind Speed (m/s) at 208m
+PDAC Rotor Equivalent Wind Speed IEC Compliance at 208m
+Spectral Average Turbulence Intensity at Rotor Segment Height 26.2m at 208m
+Spectral Average Turbulence Intensity at Rotor Segment Height 42.6m at 208m
+Spectral Average Turbulence Intensity at Rotor Segment Height 59.0m at 208m
+Spectral Average Turbulence Intensity at Rotor Segment Height 75.4m at 208m
+Spectral Average Turbulence Intensity at Rotor Segment Height 91.8m at 208m
+Packets in SATI Average at Rotor Segment Height 26.2m at 208m
+Packets in SATI Average at Rotor Segment Height 42.6m at 208m
+Packets in SATI Average at Rotor Segment Height 59.0m at 208m
+Packets in SATI Average at Rotor Segment Height 75.4m at 208m
+Packets in SATI Average at Rotor Segment Height 91.8m at 208m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 26.2m at 208m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 42.6m at 208m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 59.0m at 208m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 75.4m at 208m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 91.8m at 208m
+FD Packets in Average at 126m
+FD Wind Yaw Misalignment (deg) at 126m
+FD Wind Yaw Misalignment (deg) Min at 126m
+FD Wind Yaw Misalignment (deg) Max at 126m
+FD Wind Yaw Misalignment Std. Dev. (deg) at 126m
+FD Horizontal Wind Speed (m/s) at Hub Height at 126m
+FD Horizontal Wind Speed Min (m/s) at Hub Height at 126m
+FD Horizontal Wind Speed Max (m/s) at Hub Height at 126m
+FD Horizontal Wind Speed Std. Dev. (m/s) at Hub Height at 126m
+FD Mean Fit Residual Normalised By Wind Speed at 126m
+FD Vertical Wind Shear Exponent at 126m
+FD Vertical Wind Shear Exponent Min at 126m
+FD Vertical Wind Shear Exponent Max at 126m
+FD Vertical Wind Shear Exponent Std. Dev. at 126m
+FD Fit Flags at 126m
+FD Backscatter (/1.3e-6/m/sr) at 126m
+PDAC Packets in Average at Rotor Segment Height 26.2m at 126m
+PDAC Packets in Average at Rotor Segment Height 42.6m at 126m
+PDAC Packets in Average at Rotor Segment Height 59.0m at 126m
+PDAC Packets in Average at Rotor Segment Height 75.4m at 126m
+PDAC Packets in Average at Rotor Segment Height 91.8m at 126m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 26.2m at 126m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 42.6m at 126m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 59.0m at 126m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 75.4m at 126m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 91.8m at 126m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 26.2m at 126m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 42.6m at 126m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 59.0m at 126m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 75.4m at 126m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 91.8m at 126m
+PDAC Rotor Equivalent Horizontal Wind Speed (m/s) at 126m
+PDAC Rotor Equivalent Wind Speed IEC Compliance at 126m
+Spectral Average Turbulence Intensity at Rotor Segment Height 26.2m at 126m
+Spectral Average Turbulence Intensity at Rotor Segment Height 42.6m at 126m
+Spectral Average Turbulence Intensity at Rotor Segment Height 59.0m at 126m
+Spectral Average Turbulence Intensity at Rotor Segment Height 75.4m at 126m
+Spectral Average Turbulence Intensity at Rotor Segment Height 91.8m at 126m
+Packets in SATI Average at Rotor Segment Height 26.2m at 126m
+Packets in SATI Average at Rotor Segment Height 42.6m at 126m
+Packets in SATI Average at Rotor Segment Height 59.0m at 126m
+Packets in SATI Average at Rotor Segment Height 75.4m at 126m
+Packets in SATI Average at Rotor Segment Height 91.8m at 126m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 26.2m at 126m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 42.6m at 126m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 59.0m at 126m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 75.4m at 126m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 91.8m at 126m
+FD Packets in Average at 85m
+FD Wind Yaw Misalignment (deg) at 85m
+FD Wind Yaw Misalignment (deg) Min at 85m
+FD Wind Yaw Misalignment (deg) Max at 85m
+FD Wind Yaw Misalignment Std. Dev. (deg) at 85m
+FD Horizontal Wind Speed (m/s) at Hub Height at 85m
+FD Horizontal Wind Speed Min (m/s) at Hub Height at 85m
+FD Horizontal Wind Speed Max (m/s) at Hub Height at 85m
+FD Horizontal Wind Speed Std. Dev. (m/s) at Hub Height at 85m
+FD Mean Fit Residual Normalised By Wind Speed at 85m
+FD Vertical Wind Shear Exponent at 85m
+FD Vertical Wind Shear Exponent Min at 85m
+FD Vertical Wind Shear Exponent Max at 85m
+FD Vertical Wind Shear Exponent Std. Dev. at 85m
+FD Fit Flags at 85m
+FD Backscatter (/1.3e-6/m/sr) at 85m
+PDAC Packets in Average at Rotor Segment Height 26.2m at 85m
+PDAC Packets in Average at Rotor Segment Height 42.6m at 85m
+PDAC Packets in Average at Rotor Segment Height 59.0m at 85m
+PDAC Packets in Average at Rotor Segment Height 75.4m at 85m
+PDAC Packets in Average at Rotor Segment Height 91.8m at 85m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 26.2m at 85m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 42.6m at 85m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 59.0m at 85m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 75.4m at 85m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 91.8m at 85m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 26.2m at 85m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 42.6m at 85m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 59.0m at 85m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 75.4m at 85m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 91.8m at 85m
+PDAC Rotor Equivalent Horizontal Wind Speed (m/s) at 85m
+PDAC Rotor Equivalent Wind Speed IEC Compliance at 85m
+Spectral Average Turbulence Intensity at Rotor Segment Height 26.2m at 85m
+Spectral Average Turbulence Intensity at Rotor Segment Height 42.6m at 85m
+Spectral Average Turbulence Intensity at Rotor Segment Height 59.0m at 85m
+Spectral Average Turbulence Intensity at Rotor Segment Height 75.4m at 85m
+Spectral Average Turbulence Intensity at Rotor Segment Height 91.8m at 85m
+Packets in SATI Average at Rotor Segment Height 26.2m at 85m
+Packets in SATI Average at Rotor Segment Height 42.6m at 85m
+Packets in SATI Average at Rotor Segment Height 59.0m at 85m
+Packets in SATI Average at Rotor Segment Height 75.4m at 85m
+Packets in SATI Average at Rotor Segment Height 91.8m at 85m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 26.2m at 85m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 42.6m at 85m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 59.0m at 85m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 75.4m at 85m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 91.8m at 85m
+FD Packets in Average at 64m
+FD Wind Yaw Misalignment (deg) at 64m
+FD Wind Yaw Misalignment (deg) Min at 64m
+FD Wind Yaw Misalignment (deg) Max at 64m
+FD Wind Yaw Misalignment Std. Dev. (deg) at 64m
+FD Horizontal Wind Speed (m/s) at Hub Height at 64m
+FD Horizontal Wind Speed Min (m/s) at Hub Height at 64m
+FD Horizontal Wind Speed Max (m/s) at Hub Height at 64m
+FD Horizontal Wind Speed Std. Dev. (m/s) at Hub Height at 64m
+FD Mean Fit Residual Normalised By Wind Speed at 64m
+FD Vertical Wind Shear Exponent at 64m
+FD Vertical Wind Shear Exponent Min at 64m
+FD Vertical Wind Shear Exponent Max at 64m
+FD Vertical Wind Shear Exponent Std. Dev. at 64m
+FD Fit Flags at 64m
+FD Backscatter (/1.3e-6/m/sr) at 64m
+PDAC Packets in Average at Rotor Segment Height 26.2m at 64m
+PDAC Packets in Average at Rotor Segment Height 42.6m at 64m
+PDAC Packets in Average at Rotor Segment Height 59.0m at 64m
+PDAC Packets in Average at Rotor Segment Height 75.4m at 64m
+PDAC Packets in Average at Rotor Segment Height 91.8m at 64m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 26.2m at 64m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 42.6m at 64m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 59.0m at 64m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 75.4m at 64m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 91.8m at 64m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 26.2m at 64m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 42.6m at 64m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 59.0m at 64m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 75.4m at 64m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 91.8m at 64m
+PDAC Rotor Equivalent Horizontal Wind Speed (m/s) at 64m
+PDAC Rotor Equivalent Wind Speed IEC Compliance at 64m
+Spectral Average Turbulence Intensity at Rotor Segment Height 26.2m at 64m
+Spectral Average Turbulence Intensity at Rotor Segment Height 42.6m at 64m
+Spectral Average Turbulence Intensity at Rotor Segment Height 59.0m at 64m
+Spectral Average Turbulence Intensity at Rotor Segment Height 75.4m at 64m
+Spectral Average Turbulence Intensity at Rotor Segment Height 91.8m at 64m
+Packets in SATI Average at Rotor Segment Height 26.2m at 64m
+Packets in SATI Average at Rotor Segment Height 42.6m at 64m
+Packets in SATI Average at Rotor Segment Height 59.0m at 64m
+Packets in SATI Average at Rotor Segment Height 75.4m at 64m
+Packets in SATI Average at Rotor Segment Height 91.8m at 64m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 26.2m at 64m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 42.6m at 64m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 59.0m at 64m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 75.4m at 64m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 91.8m at 64m
+FD Packets in Average at 48m
+FD Wind Yaw Misalignment (deg) at 48m
+FD Wind Yaw Misalignment (deg) Min at 48m
+FD Wind Yaw Misalignment (deg) Max at 48m
+FD Wind Yaw Misalignment Std. Dev. (deg) at 48m
+FD Horizontal Wind Speed (m/s) at Hub Height at 48m
+FD Horizontal Wind Speed Min (m/s) at Hub Height at 48m
+FD Horizontal Wind Speed Max (m/s) at Hub Height at 48m
+FD Horizontal Wind Speed Std. Dev. (m/s) at Hub Height at 48m
+FD Mean Fit Residual Normalised By Wind Speed at 48m
+FD Vertical Wind Shear Exponent at 48m
+FD Vertical Wind Shear Exponent Min at 48m
+FD Vertical Wind Shear Exponent Max at 48m
+FD Vertical Wind Shear Exponent Std. Dev. at 48m
+FD Fit Flags at 48m
+FD Backscatter (/1.3e-6/m/sr) at 48m
+PDAC Packets in Average at Rotor Segment Height 26.2m at 48m
+PDAC Packets in Average at Rotor Segment Height 42.6m at 48m
+PDAC Packets in Average at Rotor Segment Height 59.0m at 48m
+PDAC Packets in Average at Rotor Segment Height 75.4m at 48m
+PDAC Packets in Average at Rotor Segment Height 91.8m at 48m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 26.2m at 48m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 42.6m at 48m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 59.0m at 48m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 75.4m at 48m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 91.8m at 48m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 26.2m at 48m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 42.6m at 48m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 59.0m at 48m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 75.4m at 48m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 91.8m at 48m
+PDAC Rotor Equivalent Horizontal Wind Speed (m/s) at 48m
+PDAC Rotor Equivalent Wind Speed IEC Compliance at 48m
+Spectral Average Turbulence Intensity at Rotor Segment Height 26.2m at 48m
+Spectral Average Turbulence Intensity at Rotor Segment Height 42.6m at 48m
+Spectral Average Turbulence Intensity at Rotor Segment Height 59.0m at 48m
+Spectral Average Turbulence Intensity at Rotor Segment Height 75.4m at 48m
+Spectral Average Turbulence Intensity at Rotor Segment Height 91.8m at 48m
+Packets in SATI Average at Rotor Segment Height 26.2m at 48m
+Packets in SATI Average at Rotor Segment Height 42.6m at 48m
+Packets in SATI Average at Rotor Segment Height 59.0m at 48m
+Packets in SATI Average at Rotor Segment Height 75.4m at 48m
+Packets in SATI Average at Rotor Segment Height 91.8m at 48m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 26.2m at 48m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 42.6m at 48m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 59.0m at 48m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 75.4m at 48m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 91.8m at 48m
+FD Packets in Average at 10m
+FD Wind Yaw Misalignment (deg) at 10m
+FD Wind Yaw Misalignment (deg) Min at 10m
+FD Wind Yaw Misalignment (deg) Max at 10m
+FD Wind Yaw Misalignment Std. Dev. (deg) at 10m
+FD Horizontal Wind Speed (m/s) at Hub Height at 10m
+FD Horizontal Wind Speed Min (m/s) at Hub Height at 10m
+FD Horizontal Wind Speed Max (m/s) at Hub Height at 10m
+FD Horizontal Wind Speed Std. Dev. (m/s) at Hub Height at 10m
+FD Mean Fit Residual Normalised By Wind Speed at 10m
+FD Vertical Wind Shear Exponent at 10m
+FD Vertical Wind Shear Exponent Min at 10m
+FD Vertical Wind Shear Exponent Max at 10m
+FD Vertical Wind Shear Exponent Std. Dev. at 10m
+FD Fit Flags at 10m
+FD Backscatter (/1.3e-6/m/sr) at 10m
+PDAC Packets in Average at Rotor Segment Height 26.2m at 10m
+PDAC Packets in Average at Rotor Segment Height 42.6m at 10m
+PDAC Packets in Average at Rotor Segment Height 59.0m at 10m
+PDAC Packets in Average at Rotor Segment Height 75.4m at 10m
+PDAC Packets in Average at Rotor Segment Height 91.8m at 10m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 26.2m at 10m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 42.6m at 10m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 59.0m at 10m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 75.4m at 10m
+PDAC Horizontal Wind Speed (m/s) at Rotor Segment Height 91.8m at 10m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 26.2m at 10m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 42.6m at 10m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 59.0m at 10m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 75.4m at 10m
+PDAC Wind Yaw Misalignment (deg) at Rotor Segment Height 91.8m at 10m
+PDAC Rotor Equivalent Horizontal Wind Speed (m/s) at 10m
+PDAC Rotor Equivalent Wind Speed IEC Compliance at 10m
+Spectral Average Turbulence Intensity at Rotor Segment Height 26.2m at 10m
+Spectral Average Turbulence Intensity at Rotor Segment Height 42.6m at 10m
+Spectral Average Turbulence Intensity at Rotor Segment Height 59.0m at 10m
+Spectral Average Turbulence Intensity at Rotor Segment Height 75.4m at 10m
+Spectral Average Turbulence Intensity at Rotor Segment Height 91.8m at 10m
+Packets in SATI Average at Rotor Segment Height 26.2m at 10m
+Packets in SATI Average at Rotor Segment Height 42.6m at 10m
+Packets in SATI Average at Rotor Segment Height 59.0m at 10m
+Packets in SATI Average at Rotor Segment Height 75.4m at 10m
+Packets in SATI Average at Rotor Segment Height 91.8m at 10m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 26.2m at 10m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 42.6m at 10m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 59.0m at 10m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 75.4m at 10m
+Spectral Average Std. Dev. (m/s) at Rotor Segment Height 91.8m at 10m
